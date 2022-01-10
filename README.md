@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SVM_from_scratch
 
 ![Untitled](SVM_from_scratch%20c7258e6a31c84f9a883814224f083139/Untitled.png)
@@ -64,3 +65,6 @@ Here we have implemented the Sequential Minimal Optimization [(SMO)](https://en.
 <!-- $I(\alpha) = \{i : i \in argmax_{i \in R(\alpha)} \{ - \nabla f(\alpha)_i y_i \}  \}$ --> <img style="transform: translateY(0.1em); background: white;" src="https://render.githubusercontent.com/render/math?math=I(%5Calpha)%20%3D%20%5C%7Bi%20%3A%20i%20%5Cin%20argmax_%7Bi%20%5Cin%20R(%5Calpha)%7D%20%5C%7B%20-%20%5Cnabla%20f(%5Calpha)_i%20y_i%20%5C%7D%20%20%5C%7D">
 
 <!-- $J(\alpha) = \{j : j \in argmin_{j \in S(\alpha)} \{ - \nabla f(\alpha)_j y_j \} \}$ --> <img style="transform: translateY(0.1em); background: white;" src="https://render.githubusercontent.com/render/math?math=J(%5Calpha)%20%3D%20%5C%7Bj%20%3A%20j%20%5Cin%20argmin_%7Bj%20%5Cin%20S(%5Calpha)%7D%20%5C%7B%20-%20%5Cnabla%20f(%5Calpha)_j%20y_j%20%5C%7D%20%5C%7D">
+=======
+# SVM-from-scratch
+>>>>>>> origin/main
