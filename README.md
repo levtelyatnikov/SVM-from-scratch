@@ -66,5 +66,4 @@ Here we have implemented the Sequential Minimal Optimization [(SMO)](https://en.
 
 <!-- $J(\alpha) = \{j : j \in argmin_{j \in S(\alpha)} \{ - \nabla f(\alpha)_j y_j \} \}$ --> <img style="transform: translateY(0.1em); background: white;" src="https://render.githubusercontent.com/render/math?math=J(%5Calpha)%20%3D%20%5C%7Bj%20%3A%20j%20%5Cin%20argmin_%7Bj%20%5Cin%20S(%5Calpha)%7D%20%5C%7B%20-%20%5Cnabla%20f(%5Calpha)_j%20y_j%20%5C%7D%20%5C%7D">
 =======
-# SVM-from-scratch
->>>>>>> origin/main
+
