@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # SVM_from_scratch
 
 ![Untitled](SVM_from_scratch%20c7258e6a31c84f9a883814224f083139/Untitled.png)
